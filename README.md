@@ -1,19 +1,18 @@
-# fesfcrud
+# App ToDo
 
-## Project setup
-```
-npm install
-```
+<img src="https://i.ibb.co/sJjkKz6/Captura-de-Tela-36.png" alt="Tela de Aplicação">
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> Aplicativo de gestão de Tarefas utilizando Vue.js.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Ajustes e melhorias
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+- [x] Modo Mobile
+- [ ] Dark Mode
+
+### Deploy da aplicação
+
+<a href='https://yvasconcellos.github.io/fesfcrud/'> https://yvasconcellos.github.io/fesfcrud/ </a>
+
+[⬆ Voltar ao topo](#App-ToDo)<br>
